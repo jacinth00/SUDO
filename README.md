@@ -74,16 +74,20 @@ This project is an Education Management System designed to streamline and enhanc
 
 5. **Send Feedback to HOD**
 
-## Getting Started
-
-To get a local copy up and running follow these simple steps:
 
 ### Prerequisites
 
 - Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
 
-### Installation
+## Requirements
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/education-management-system.git
+- Django==3.1.1
+- mysql-connector==2.2.9
+- virtualenv==20.0.31
+- dj-database-url==0.5.0
+- gunicorn==20.0.4
+- psycopg2==2.8.6
+- whitenoise==5.2.0
+- Pillow==7.2.0
+- requests==2.24.0
+
