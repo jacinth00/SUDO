@@ -91,3 +91,7 @@ This project is an Education Management System designed to streamline and enhanc
 - Pillow==7.2.0
 - requests==2.24.0
 
+## Output
+![1](https://github.com/user-attachments/assets/0ff8a943-5ad9-4a1c-8650-bda988c2fbed)
+![2](https://github.com/user-attachments/assets/2895631f-7991-4610-a387-f8a66643d96c)
+![3](https://github.com/user-attachments/assets/3460d240-2866-44ee-becf-d58c6676152a)
